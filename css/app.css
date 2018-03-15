@@ -1,7 +1,7 @@
 .container{
   width: 5000 px;
 	align: center;
-  margin: auto;
+  margin: 10;
 }
 body {
     background-image: url("gradient_bg.png");
